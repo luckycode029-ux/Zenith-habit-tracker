@@ -1,0 +1,19 @@
+
+{
+  "name": "Zenith Habit Tracker",
+  "short_name": "Zenith",
+  "description": "A high-clarity 30-day habit protocol tracker.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3239/3239147.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
